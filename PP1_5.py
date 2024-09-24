@@ -26,11 +26,11 @@ def q3():
   #Write Assignment code here
 
 def q4():
-    num2 = input("Input a number: ")
-    num2 = (float(num2))
-    num2 = (num2*12)
-    num2 = (int(num2))
-    print(num2)
+  num2 = input("Input a number: ")
+  num2 = (float(num2))
+  num2 = (num2*12)
+  num2 = (int(num2))
+  print(num2)
 
   #Write Assignment code here
 
